@@ -1,1 +1,1 @@
-drop schema IF EXISTS register_schema CASCADE;
+drop schema IF EXISTS photo_share CASCADE;
